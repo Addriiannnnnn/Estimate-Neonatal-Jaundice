@@ -1,0 +1,448 @@
+Fold,Filename,True_Label,Predicted_Label
+1,rotated_image(0001-2)_cropped_skin.jpg,Jaundice,Jaundice
+2,rotated_image(0002-2)_cropped_skin.jpg,Jaundice,Jaundice
+3,rotated_image(0003-3)_cropped_skin.jpg,Jaundice,Jaundice
+4,rotated_image(0008-2)_cropped_skin.jpg,Jaundice,Jaundice
+5,rotated_image(0008-3)_cropped_skin.jpg,Jaundice,Jaundice
+6,rotated_image(0009-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+7,rotated_image(0010-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+8,rotated_image(0011-3)_cropped_skin.jpg,Jaundice,Jaundice
+9,rotated_image(0014-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+10,rotated_image(0014-3)_cropped_skin.jpg,Jaundice,Jaundice
+11,rotated_image(0015-2)_cropped_skin.jpg,Jaundice,Jaundice
+12,rotated_image(0022-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+13,rotated_image(0023-3)_cropped_skin.jpg,Jaundice,Jaundice
+14,rotated_image(0028-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+15,rotated_image(0035-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+16,rotated_image(0057-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+17,rotated_image(0058-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+18,rotated_image(0066-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+19,rotated_image(0077-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+20,rotated_image(0078-3)_cropped_skin.jpg,Jaundice,Jaundice
+21,rotated_image(0079-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+22,rotated_image(0083-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+23,rotated_image(0084-2)_cropped_skin.jpg,Jaundice,Jaundice
+24,rotated_image(0095-3)_cropped_skin.jpg,Jaundice,Jaundice
+25,rotated_image(0097-3)_cropped_skin.jpg,Jaundice,Jaundice
+26,rotated_image(0098-3)_cropped_skin.jpg,Jaundice,Jaundice
+27,rotated_image(0099-2)_cropped_skin.jpg,Jaundice,Jaundice
+28,rotated_image(0099-3)_cropped_skin.jpg,Jaundice,Jaundice
+29,rotated_image(0100-2)_cropped_skin.jpg,Jaundice,Jaundice
+30,rotated_image(0101-2)_cropped_skin.jpg,Jaundice,Jaundice
+31,rotated_image(0102-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+32,rotated_image(0102-3)_cropped_skin.jpg,Jaundice,Jaundice
+33,rotated_image(0114-1)_cropped_skin.jpg,Jaundice,Jaundice
+34,rotated_image(0116-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+35,rotated_image(0117-1)_cropped_skin.jpg,Jaundice,Jaundice
+36,rotated_image(0117-2)_cropped_skin.jpg,Jaundice,Jaundice
+37,rotated_image(0119-3)_cropped_skin.jpg,Jaundice,Jaundice
+38,rotated_image(0122-3)_cropped_skin.jpg,Jaundice,Jaundice
+39,rotated_image(0123-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+40,rotated_image(0123-2)_cropped_skin.jpg,Jaundice,Jaundice
+41,rotated_image(0124-3)_cropped_skin.jpg,Jaundice,Jaundice
+42,rotated_image(0125-1)_cropped_skin.jpg,Jaundice,Jaundice
+43,rotated_image(0131-1)_cropped_skin.jpg,Jaundice,Jaundice
+44,rotated_image(0134-2)_cropped_skin.jpg,Jaundice,Jaundice
+45,rotated_image(0140-2)_cropped_skin.jpg,Jaundice,Jaundice
+46,rotated_image(0141-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+47,rotated_image(0144-1)_cropped_skin.jpg,Jaundice,Jaundice
+48,rotated_image(0144-2)_cropped_skin.jpg,Jaundice,Jaundice
+49,rotated_image(0148-2)_cropped_skin.jpg,Jaundice,Jaundice
+50,rotated_image(0148-3)_cropped_skin.jpg,Jaundice,Jaundice
+51,rotated_image(0150-2)_cropped_skin.jpg,Jaundice,Jaundice
+52,rotated_image(0161-1)_cropped_skin.jpg,Jaundice,Jaundice
+53,rotated_image(0163-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+54,rotated_image(0169-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+55,rotated_image(0180-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+56,rotated_image(0182-2)_cropped_skin.jpg,Jaundice,Jaundice
+57,rotated_image(0185-2)_cropped_skin.jpg,Jaundice,Jaundice
+58,rotated_image(0187-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+59,rotated_image(0188-3)_cropped_skin.jpg,Jaundice,Jaundice
+60,rotated_image(0198-1)_cropped_skin.jpg,Jaundice,Jaundice
+61,rotated_image(0203-2)_cropped_skin.jpg,Jaundice,Jaundice
+62,rotated_image(0217-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+63,rotated_image(0236-1)_cropped_skin.jpg,Jaundice,Jaundice
+64,rotated_image(0247-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+65,rotated_image(0247-2)_cropped_skin.jpg,Jaundice,Jaundice
+66,rotated_image(0254-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+67,rotated_image(0254-3)_cropped_skin.jpg,Jaundice,Jaundice
+68,rotated_image(0256-2)_cropped_skin.jpg,Jaundice,Jaundice
+69,rotated_image(0257-1)_cropped_skin.jpg,Jaundice,Jaundice
+70,rotated_image(0257-2)_cropped_skin.jpg,Jaundice,Jaundice
+71,rotated_image(0258-2)_cropped_skin.jpg,Jaundice,Jaundice
+72,rotated_image(0259-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+73,rotated_image(0271-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+74,rotated_image(0278-3)_cropped_skin.jpg,Jaundice,Jaundice
+75,rotated_image(0280-3)_cropped_skin.jpg,Jaundice,Jaundice
+76,rotated_image(0285-3)_cropped_skin.jpg,Jaundice,Jaundice
+77,rotated_image(0286-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+78,rotated_image(0290-1)_cropped_skin.jpg,Jaundice,Jaundice
+79,rotated_image(0293-2)_cropped_skin.jpg,Jaundice,Jaundice
+80,rotated_image(0295-2)_cropped_skin.jpg,Jaundice,Jaundice
+81,rotated_image(0295-3)_cropped_skin.jpg,Jaundice,Jaundice
+82,rotated_image(0297-1)_cropped_skin.jpg,Jaundice,Jaundice
+83,rotated_image(0297-3)_cropped_skin.jpg,Jaundice,Jaundice
+84,rotated_image(0305-3)_cropped_skin.jpg,Jaundice,Jaundice
+85,rotated_image(0307-1)_cropped_skin.jpg,Jaundice,Jaundice
+86,rotated_image(0309-1)_cropped_skin.jpg,Jaundice,Jaundice
+87,rotated_image(0312-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+88,rotated_image(0315-2)_cropped_skin.jpg,Jaundice,Jaundice
+89,rotated_image(0317-3)_cropped_skin.jpg,Jaundice,Jaundice
+90,rotated_image(0319-2)_cropped_skin.jpg,Jaundice,Jaundice
+91,rotated_image(0319-3)_cropped_skin.jpg,Jaundice,Jaundice
+92,rotated_image(0331-2)_cropped_skin.jpg,Jaundice,Jaundice
+93,rotated_image(0333-3)_cropped_skin.jpg,Jaundice,Jaundice
+94,rotated_image(0342-1)_cropped_skin.jpg,Jaundice,Jaundice
+95,rotated_image(0345-1)_cropped_skin.jpg,Jaundice,Jaundice
+96,rotated_image(0347-1)_cropped_skin.jpg,Jaundice,Jaundice
+97,rotated_image(0358-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+98,rotated_image(0358-3)_cropped_skin.jpg,Jaundice,Jaundice
+99,rotated_image(0359-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+100,rotated_image(0363-3)_cropped_skin.jpg,Jaundice,Jaundice
+101,rotated_image(0370-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+102,rotated_image(0374-2)_cropped_skin.jpg,Jaundice,Jaundice
+103,rotated_image(0389-1)_cropped_skin.jpg,Jaundice,Jaundice
+104,rotated_image(0395-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+105,rotated_image(0395-3)_cropped_skin.jpg,Jaundice,Jaundice
+106,rotated_image(0407-1)_cropped_skin.jpg,Jaundice,Jaundice
+107,rotated_image(0421-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+108,rotated_image(0426-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+109,rotated_image(0427-1)_cropped_skin.jpg,Jaundice,Not Jaundice
+110,rotated_image(0443-1)_cropped_skin.jpg,Jaundice,Jaundice
+111,rotated_image(0443-3)_cropped_skin.jpg,Jaundice,Jaundice
+112,rotated_image(0445-1)_cropped_skin.jpg,Jaundice,Jaundice
+113,rotated_image(0445-2)_cropped_skin.jpg,Jaundice,Jaundice
+114,rotated_image(0445-3)_cropped_skin.jpg,Jaundice,Jaundice
+115,rotated_image(0447-2)_cropped_skin.jpg,Jaundice,Jaundice
+116,rotated_image(0450-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+117,rotated_image(0455-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+118,rotated_image(0456-2)_cropped_skin.jpg,Jaundice,Jaundice
+119,rotated_image(0456-3)_cropped_skin.jpg,Jaundice,Jaundice
+120,rotated_image(0458-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+121,rotated_image(0458-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+122,rotated_image(0462-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+123,rotated_image(0472-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+124,rotated_image(0472-3)_cropped_skin.jpg,Jaundice,Jaundice
+125,rotated_image(0473-1)_cropped_skin.jpg,Not Jaundice,Jaundice
+126,rotated_image(0473-2)_cropped_skin.jpg,Jaundice,Jaundice
+127,rotated_image(0474-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+128,rotated_image(0484-3)_cropped_skin.jpg,Jaundice,Jaundice
+129,rotated_image(0486-1)_cropped_skin.jpg,Jaundice,Jaundice
+130,rotated_image(0495-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+131,rotated_image(0501-2)_cropped_skin.jpg,Jaundice,Jaundice
+132,rotated_image(0517-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+133,rotated_image(0524-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+134,rotated_image(0530-1)_cropped_skin.jpg,Jaundice,Jaundice
+135,rotated_image(0530-3)_cropped_skin.jpg,Jaundice,Jaundice
+136,rotated_image(0535-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+137,rotated_image(0539-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+138,rotated_image(0540-2)_cropped_skin.jpg,Jaundice,Jaundice
+139,rotated_image(0541-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+140,rotated_image(0542-3)_cropped_skin.jpg,Jaundice,Jaundice
+141,rotated_image(0547-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+142,rotated_image(0548-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+143,rotated_image(0550-2)_cropped_skin.jpg,Jaundice,Jaundice
+144,rotated_image(0552-2)_cropped_skin.jpg,Jaundice,Jaundice
+145,rotated_image(0552-3)_cropped_skin.jpg,Jaundice,Jaundice
+146,rotated_image(0554-1)_cropped_skin.jpg,Jaundice,Jaundice
+147,rotated_image(0554-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+148,rotated_image(0555-3)_cropped_skin.jpg,Jaundice,Jaundice
+149,rotated_image(0557-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+150,rotated_image(0559-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+151,rotated_image(0562-3)_cropped_skin.jpg,Jaundice,Jaundice
+152,rotated_image(0565-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+153,rotated_image(0566-1)_cropped_skin.jpg,Jaundice,Jaundice
+154,rotated_image(0567-3)_cropped_skin.jpg,Jaundice,Jaundice
+155,rotated_image(0568-3)_cropped_skin.jpg,Not Jaundice,Jaundice
+156,rotated_image(0569-3)_cropped_skin.jpg,Jaundice,Jaundice
+157,rotated_image(0570-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+158,rotated_image(0574-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+159,rotated_image(0583-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+160,rotated_image(0583-3)_cropped_skin.jpg,Jaundice,Jaundice
+161,rotated_image(0586-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+162,rotated_image(0588-3)_cropped_skin.jpg,Jaundice,Jaundice
+163,rotated_image(0589-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+164,rotated_image(0591-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+165,rotated_image(0593-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+166,rotated_image(0593-2)_cropped_skin.jpg,Jaundice,Jaundice
+167,rotated_image(0593-3)_cropped_skin.jpg,Jaundice,Jaundice
+168,rotated_image(0594-2)_cropped_skin.jpg,Jaundice,Jaundice
+169,rotated_image(0596-2)_cropped_skin.jpg,Jaundice,Jaundice
+170,rotated_image(0601-3)_cropped_skin.jpg,Jaundice,Jaundice
+171,rotated_image(0604-3)_cropped_skin.jpg,Jaundice,Jaundice
+172,rotated_image(0625-2)_cropped_skin.jpg,Jaundice,Jaundice
+173,rotated_image(0633-3)_cropped_skin.jpg,Jaundice,Jaundice
+174,rotated_image(0641-1)_cropped_skin.jpg,Not Jaundice,Jaundice
+175,rotated_image(0650-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+176,rotated_image(0665-1)_cropped_skin.jpg,Jaundice,Jaundice
+177,rotated_image(0665-2)_cropped_skin.jpg,Jaundice,Jaundice
+178,rotated_image(0665-3)_cropped_skin.jpg,Jaundice,Jaundice
+179,rotated_image(0667-3)_cropped_skin.jpg,Jaundice,Jaundice
+180,rotated_image(0668-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+181,rotated_image(0668-2)_cropped_skin.jpg,Jaundice,Jaundice
+182,rotated_image(0672-3)_cropped_skin.jpg,Jaundice,Jaundice
+183,rotated_image(0673-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+184,rotated_image(0678-1)_cropped_skin.jpg,Jaundice,Jaundice
+185,rotated_image(0680-3)_cropped_skin.jpg,Jaundice,Jaundice
+186,rotated_image(0686-2)_cropped_skin.jpg,Jaundice,Jaundice
+187,rotated_image(0686-3)_cropped_skin.jpg,Jaundice,Jaundice
+188,rotated_image(0691-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+189,rotated_image(0696-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+190,rotated_image(0696-2)_cropped_skin.jpg,Jaundice,Jaundice
+191,rotated_image(0702-2)_cropped_skin.jpg,Jaundice,Jaundice
+192,rotated_image(0703-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+193,rotated_image(0703-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+194,rotated_image(0704-3)_cropped_skin.jpg,Jaundice,Not Jaundice
+195,rotated_image(0705-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+196,rotated_image(0705-2)_cropped_skin.jpg,Jaundice,Jaundice
+197,rotated_image(0714-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+198,rotated_image(0728-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+199,rotated_image(0730-2)_cropped_skin.jpg,Jaundice,Jaundice
+200,rotated_image(0733-2)_cropped_skin.jpg,Jaundice,Jaundice
+201,rotated_image(0739-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+202,rotated_image(0741-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+203,rotated_image(0741-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+204,rotated_image(0742-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+205,rotated_image(0745-2)_cropped_skin.jpg,Jaundice,Jaundice
+206,rotated_image(0747-2)_cropped_skin.jpg,Jaundice,Jaundice
+207,rotated_image(0761-3)_cropped_skin.jpg,Jaundice,Jaundice
+208,rotated_image(0762-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+209,rotated_image(0763-2)_cropped_skin.jpg,Jaundice,Jaundice
+210,rotated_image(0763-3)_cropped_skin.jpg,Jaundice,Jaundice
+211,rotated_image(0774-1)_cropped_skin.jpg,Jaundice,Not Jaundice
+212,rotated_image(0792-3)_cropped_skin.jpg,Jaundice,Jaundice
+213,rotated_image(0796-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+214,rotated_image(0797-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+215,rotated_image(0798-2)_cropped_skin.jpg,Jaundice,Jaundice
+216,rotated_image(0798-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+217,rotated_image(0800-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+218,rotated_image(0800-3)_cropped_skin.jpg,Jaundice,Jaundice
+219,rotated_image(0802-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+220,rotated_image(0802-3)_cropped_skin.jpg,Jaundice,Jaundice
+221,rotated_image(0803-3)_cropped_skin.jpg,Jaundice,Jaundice
+222,rotated_image(0804-2)_cropped_skin.jpg,Jaundice,Jaundice
+223,rotated_image(0809-1)_cropped_skin.jpg,Jaundice,Jaundice
+224,rotated_image(0812-2)_cropped_skin.jpg,Jaundice,Jaundice
+225,rotated_image(0812-3)_cropped_skin.jpg,Jaundice,Jaundice
+226,rotated_image(0823-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+227,rotated_image(0824-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+228,rotated_image(0824-2)_cropped_skin.jpg,Jaundice,Jaundice
+229,rotated_image(0824-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+230,rotated_image(0829-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+231,rotated_image(0832-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+232,rotated_image(0833-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+233,rotated_image(0842-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+234,rotated_image(0848-2)_cropped_skin.jpg,Jaundice,Jaundice
+235,rotated_image(0848-3)_cropped_skin.jpg,Jaundice,Jaundice
+236,rotated_image(0850-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+237,rotated_image(0861-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+238,rotated_image(0864-3)_cropped_skin.jpg,Jaundice,Jaundice
+239,rotated_image(0876-2)_cropped_skin.jpg,Jaundice,Jaundice
+240,rotated_image(0877-1)_cropped_skin.jpg,Jaundice,Jaundice
+241,rotated_image(0880-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+242,rotated_image(0880-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+243,rotated_image(0901-3)_cropped_skin.jpg,Jaundice,Jaundice
+244,rotated_image(0903-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+245,rotated_image(0914-3)_cropped_skin.jpg,Jaundice,Jaundice
+246,rotated_image(0920-3)_cropped_skin.jpg,Jaundice,Jaundice
+247,rotated_image(0929-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+248,rotated_image(0934-2)_cropped_skin.jpg,Jaundice,Jaundice
+249,rotated_image(0938-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+250,rotated_image(0939-2)_cropped_skin.jpg,Jaundice,Jaundice
+251,rotated_image(0940-2)_cropped_skin.jpg,Jaundice,Jaundice
+252,rotated_image(0948-2)_cropped_skin.jpg,Jaundice,Jaundice
+253,rotated_image(0949-2)_cropped_skin.jpg,Jaundice,Jaundice
+254,rotated_image(0950-2)_cropped_skin.jpg,Jaundice,Jaundice
+255,rotated_image(0951-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+256,rotated_image(0954-2)_cropped_skin.jpg,Jaundice,Jaundice
+257,rotated_image(0960-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+258,rotated_image(0965-2)_cropped_skin.jpg,Jaundice,Jaundice
+259,rotated_image(0968-2)_cropped_skin.jpg,Jaundice,Jaundice
+260,rotated_image(0975-3)_cropped_skin.jpg,Jaundice,Jaundice
+261,rotated_image(0980-2)_cropped_skin.jpg,Jaundice,Jaundice
+262,rotated_image(0983-2)_cropped_skin.jpg,Jaundice,Jaundice
+263,rotated_image(0984-1)_cropped_skin.jpg,Jaundice,Jaundice
+264,rotated_image(0984-3)_cropped_skin.jpg,Jaundice,Jaundice
+265,rotated_image(0985-2)_cropped_skin.jpg,Jaundice,Jaundice
+266,rotated_image(0986-2)_cropped_skin.jpg,Jaundice,Jaundice
+267,rotated_image(0986-3)_cropped_skin.jpg,Jaundice,Jaundice
+268,rotated_image(0988-1)_cropped_skin.jpg,Jaundice,Jaundice
+269,rotated_image(0992-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+270,rotated_image(0993-2)_cropped_skin.jpg,Jaundice,Jaundice
+271,rotated_image(0995-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+272,rotated_image(0996-1)_cropped_skin.jpg,Jaundice,Jaundice
+273,rotated_image(0996-3)_cropped_skin.jpg,Jaundice,Jaundice
+274,rotated_image(1003-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+275,rotated_image(1003-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+276,rotated_image(1006-3)_cropped_skin.jpg,Jaundice,Jaundice
+277,rotated_image(1007-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+278,rotated_image(1013-1)_cropped_skin.jpg,Jaundice,Jaundice
+279,rotated_image(1014-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+280,rotated_image(1014-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+281,rotated_image(1018-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+282,rotated_image(1018-3)_cropped_skin.jpg,Jaundice,Jaundice
+283,rotated_image(1031-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+284,rotated_image(1032-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+285,rotated_image(1033-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+286,rotated_image(1033-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+287,rotated_image(1034-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+288,rotated_image(1039-2)_cropped_skin.jpg,Jaundice,Jaundice
+289,rotated_image(1039-3)_cropped_skin.jpg,Jaundice,Jaundice
+290,rotated_image(1040-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+291,rotated_image(1041-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+292,rotated_image(1043-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+293,rotated_image(1048-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+294,rotated_image(1050-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+295,rotated_image(1051-2)_cropped_skin.jpg,Jaundice,Jaundice
+296,rotated_image(1055-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+297,rotated_image(1055-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+298,rotated_image(1055-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+299,rotated_image(1057-2)_cropped_skin.jpg,Jaundice,Jaundice
+300,rotated_image(1057-3)_cropped_skin.jpg,Jaundice,Jaundice
+301,rotated_image(1059-1)_cropped_skin.jpg,Jaundice,Jaundice
+302,rotated_image(1079-2)_cropped_skin.jpg,Jaundice,Jaundice
+303,rotated_image(1082-2)_cropped_skin.jpg,Jaundice,Jaundice
+304,rotated_image(1088-2)_cropped_skin.jpg,Jaundice,Jaundice
+305,rotated_image(1089-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+306,rotated_image(1096-3)_cropped_skin.jpg,Jaundice,Jaundice
+307,rotated_image(1097-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+308,rotated_image(1099-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+309,rotated_image(1111-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+310,rotated_image(1112-3)_cropped_skin.jpg,Jaundice,Jaundice
+311,rotated_image(1113-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+312,rotated_image(1113-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+313,rotated_image(1114-2)_cropped_skin.jpg,Jaundice,Jaundice
+314,rotated_image(1115-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+315,rotated_image(1116-3)_cropped_skin.jpg,Jaundice,Jaundice
+316,rotated_image(1120-2)_cropped_skin.jpg,Jaundice,Jaundice
+317,rotated_image(1127-3)_cropped_skin.jpg,Jaundice,Jaundice
+318,rotated_image(1128-1)_cropped_skin.jpg,Jaundice,Jaundice
+319,rotated_image(1128-2)_cropped_skin.jpg,Jaundice,Jaundice
+320,rotated_image(1128-3)_cropped_skin.jpg,Jaundice,Jaundice
+321,rotated_image(1139-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+322,rotated_image(1140-2)_cropped_skin.jpg,Jaundice,Jaundice
+323,rotated_image(1141-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+324,rotated_image(1145-3)_cropped_skin.jpg,Jaundice,Jaundice
+325,rotated_image(1146-1)_cropped_skin.jpg,Jaundice,Jaundice
+326,rotated_image(1146-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+327,rotated_image(1149-2)_cropped_skin.jpg,Jaundice,Jaundice
+328,rotated_image(1150-1)_cropped_skin.jpg,Jaundice,Jaundice
+329,rotated_image(1150-2)_cropped_skin.jpg,Jaundice,Jaundice
+330,rotated_image(1151-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+331,rotated_image(1154-1)_cropped_skin.jpg,Jaundice,Jaundice
+332,rotated_image(1154-2)_cropped_skin.jpg,Jaundice,Jaundice
+333,rotated_image(1155-1)_cropped_skin.jpg,Jaundice,Jaundice
+334,rotated_image(1158-3)_cropped_skin.jpg,Jaundice,Jaundice
+335,rotated_image(1160-3)_cropped_skin.jpg,Jaundice,Jaundice
+336,rotated_image(1162-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+337,rotated_image(1166-2)_cropped_skin.jpg,Jaundice,Jaundice
+338,rotated_image(1167-3)_cropped_skin.jpg,Jaundice,Jaundice
+339,rotated_image(1168-1)_cropped_skin.jpg,Jaundice,Jaundice
+340,rotated_image(1171-1)_cropped_skin.jpg,Jaundice,Jaundice
+341,rotated_image(1175-3)_cropped_skin.jpg,Jaundice,Jaundice
+342,rotated_image(1179-3)_cropped_skin.jpg,Jaundice,Jaundice
+343,rotated_image(1180-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+344,rotated_image(1180-2)_cropped_skin.jpg,Jaundice,Jaundice
+345,rotated_image(1184-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+346,rotated_image(1186-2)_cropped_skin.jpg,Jaundice,Jaundice
+347,rotated_image(1192-3)_cropped_skin.jpg,Not Jaundice,Jaundice
+348,rotated_image(1195-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+349,rotated_image(1195-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+350,rotated_image(1196-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+351,rotated_image(1198-3)_cropped_skin.jpg,Jaundice,Jaundice
+352,rotated_image(1202-3)_cropped_skin.jpg,Jaundice,Jaundice
+353,rotated_image(1203-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+354,rotated_image(1206-1)_cropped_skin.jpg,Jaundice,Jaundice
+355,rotated_image(1206-2)_cropped_skin.jpg,Jaundice,Jaundice
+356,rotated_image(1207-2)_cropped_skin.jpg,Jaundice,Jaundice
+357,rotated_image(1208-3)_cropped_skin.jpg,Jaundice,Jaundice
+358,rotated_image(1212-2)_cropped_skin.jpg,Jaundice,Jaundice
+359,rotated_image(1214-3)_cropped_skin.jpg,Jaundice,Jaundice
+360,rotated_image(1215-2)_cropped_skin.jpg,Jaundice,Jaundice
+361,rotated_image(1219-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+362,rotated_image(1220-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+363,rotated_image(1220-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+364,rotated_image(1224-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+365,rotated_image(1228-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+366,rotated_image(1230-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+367,rotated_image(1232-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+368,rotated_image(1233-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+369,rotated_image(1235-3)_cropped_skin.jpg,Jaundice,Jaundice
+370,rotated_image(1236-1)_cropped_skin.jpg,Jaundice,Jaundice
+371,rotated_image(1237-1)_cropped_skin.jpg,Jaundice,Jaundice
+372,rotated_image(1238-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+373,rotated_image(1239-2)_cropped_skin.jpg,Jaundice,Jaundice
+374,rotated_image(1240-2)_cropped_skin.jpg,Jaundice,Jaundice
+375,rotated_image(1242-2)_cropped_skin.jpg,Jaundice,Jaundice
+376,rotated_image(1243-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+377,rotated_image(1243-3)_cropped_skin.jpg,Jaundice,Jaundice
+378,rotated_image(1245-1)_cropped_skin.jpg,Jaundice,Jaundice
+379,rotated_image(1247-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+380,rotated_image(1250-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+381,rotated_image(1251-3)_cropped_skin.jpg,Jaundice,Jaundice
+382,rotated_image(1255-3)_cropped_skin.jpg,Jaundice,Jaundice
+383,rotated_image(1257-3)_cropped_skin.jpg,Jaundice,Jaundice
+384,rotated_image(1258-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+385,rotated_image(1259-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+386,rotated_image(1261-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+387,rotated_image(1265-2)_cropped_skin.jpg,Jaundice,Jaundice
+388,rotated_image(1265-3)_cropped_skin.jpg,Jaundice,Jaundice
+389,rotated_image(1266-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+390,rotated_image(1267-1)_cropped_skin.jpg,Jaundice,Jaundice
+391,rotated_image(1268-3)_cropped_skin.jpg,Jaundice,Jaundice
+392,rotated_image(1270-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+393,rotated_image(1271-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+394,rotated_image(1271-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+395,rotated_image(1276-1)_cropped_skin.jpg,Jaundice,Jaundice
+396,rotated_image(1279-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+397,rotated_image(1279-2)_cropped_skin.jpg,Jaundice,Jaundice
+398,rotated_image(1279-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+399,rotated_image(1280-3)_cropped_skin.jpg,Jaundice,Jaundice
+400,rotated_image(1281-2)_cropped_skin.jpg,Jaundice,Jaundice
+401,rotated_image(1281-3)_cropped_skin.jpg,Jaundice,Jaundice
+402,rotated_image(1282-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+403,rotated_image(1283-2)_cropped_skin.jpg,Jaundice,Jaundice
+404,rotated_image(1284-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+405,rotated_image(1284-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+406,rotated_image(1285-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+407,rotated_image(1287-2)_cropped_skin.jpg,Jaundice,Jaundice
+408,rotated_image(1291-3)_cropped_skin.jpg,Jaundice,Jaundice
+409,rotated_image(1292-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+410,rotated_image(1292-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+411,rotated_image(1294-2)_cropped_skin.jpg,Jaundice,Jaundice
+412,rotated_image(1295-2)_cropped_skin.jpg,Jaundice,Jaundice
+413,rotated_image(1298-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+414,rotated_image(1298-3)_cropped_skin.jpg,Jaundice,Jaundice
+415,rotated_image(1300-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+416,rotated_image(1301-1)_cropped_skin.jpg,Jaundice,Jaundice
+417,rotated_image(1307-1)_cropped_skin.jpg,Jaundice,Jaundice
+418,rotated_image(1307-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+419,rotated_image(1308-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+420,rotated_image(1309-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+421,rotated_image(1309-3)_cropped_skin.jpg,Jaundice,Jaundice
+422,rotated_image(1311-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+423,rotated_image(1314-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+424,rotated_image(1316-3)_cropped_skin.jpg,Jaundice,Jaundice
+425,rotated_image(1317-3)_cropped_skin.jpg,Jaundice,Jaundice
+426,rotated_image(1319-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+427,rotated_image(1319-2)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+428,rotated_image(1321-2)_cropped_skin.jpg,Jaundice,Jaundice
+429,rotated_image(1321-3)_cropped_skin.jpg,Jaundice,Jaundice
+430,rotated_image(1322-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+431,rotated_image(1326-3)_cropped_skin.jpg,Jaundice,Jaundice
+432,rotated_image(1329-1)_cropped_skin.jpg,Jaundice,Jaundice
+433,rotated_image(1330-2)_cropped_skin.jpg,Jaundice,Jaundice
+434,rotated_image(1330-3)_cropped_skin.jpg,Jaundice,Jaundice
+435,rotated_image(1332-1)_cropped_skin.jpg,Jaundice,Jaundice
+436,rotated_image(1332-2)_cropped_skin.jpg,Jaundice,Jaundice
+437,rotated_image(1333-2)_cropped_skin.jpg,Jaundice,Not Jaundice
+438,rotated_image(1334-1)_cropped_skin.jpg,Jaundice,Jaundice
+439,rotated_image(1335-3)_cropped_skin.jpg,Jaundice,Jaundice
+440,rotated_image(1336-1)_cropped_skin.jpg,Jaundice,Jaundice
+441,rotated_image(1337-1)_cropped_skin.jpg,Jaundice,Jaundice
+442,rotated_image(1339-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+443,rotated_image(1342-3)_cropped_skin.jpg,Jaundice,Jaundice
+444,rotated_image(1343-2)_cropped_skin.jpg,Jaundice,Jaundice
+445,rotated_image(1345-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+446,rotated_image(1346-1)_cropped_skin.jpg,Not Jaundice,Not Jaundice
+447,rotated_image(1346-3)_cropped_skin.jpg,Not Jaundice,Not Jaundice
